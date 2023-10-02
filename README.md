@@ -22,6 +22,11 @@ Evidencias:
 ![image](https://github.com/RamirezHernandezCesar/BasureroAutomatizado/assets/144304302/e67bcb2a-1bed-46fc-bb76-b8067ca1ddbc)
 
 
+Autor: Cesar Ramirez Hernandez
+
+Fecha de actualizacion: 02-10-2023
+
+
 
 
 
